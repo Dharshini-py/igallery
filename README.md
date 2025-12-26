@@ -2,18 +2,18 @@
 ## Date:26-12-2025
 
 ## AIM:
-To design a web application for an inteactive image gallery with minimum five images.
+To design a web application for an inteactive image gallery with minimum five images .
 
 ## DESIGN STEPS:
 
 ### Step 1:
-Clone the github repository and create Django admin interface.
+Clone the github repository and create Django admin interface .
 
 ### Step 2:
-Change settings.py file to allow request from all hosts.
+Change settings.py file to allow request from all hosts .
 
 ### Step 3:
-Use CSS for positioning and styling.
+Use CSS for positioning and styling .
 
 ### Step 4:
 Write JavaScript program for implementing interactivity.
@@ -95,7 +95,8 @@ Publish the website in the given URL.
 
 ![alt text](<Screenshot (100).png>)
 
+
 ![alt text](<Screenshot (101).png>)
 
 ## RESULT:
-The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
+The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully ..
